@@ -1,7 +1,7 @@
 public class Exercise4 {
 
     public static void main(String[] args) {
-        loop(10);
+        loop(100);
     }
 
     public static void loop(int n) {
@@ -15,5 +15,4 @@ public class Exercise4 {
             }
         }
     }
-
 }
